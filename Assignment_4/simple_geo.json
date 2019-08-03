@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "id": "CO", "properties": { "rank": 10 },
+"geometry": { "type": "Polygon", "coordinates": [[[-109,41],
+[-102,41], [-102,37], [-109,37]]] }}
+{ "type": "Feature", "id": "WY", "properties": { "rank": 35 },
+"geometry": { "type": "Polygon", "coordinates": [[[-111,45],
+[-104,45], [-104,41], [-111,41]]] }} ]
+}
